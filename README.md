@@ -9,7 +9,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -17,12 +16,13 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![Desktop Screenshot](./)
+![Desktop Screenshot](./screenshots/desktop.png)
+![Mobile Screenshot](./screenshots/mobile.png)
 
 ### Links
 
-- Solution URL: [GitHub Repo](/)
-- Live Site URL: [GitHub Pages](/)
+- Solution URL: [GitHub Repo](https://github.com/joysterr/fm-accordion-main)
+- Live Site URL: [GitHub Pages](https://joysterr.github.io/fm-accordion-main)
 
 ## My process
 ### Built with
@@ -30,10 +30,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - Simple HTML & CSS
 - CSS Flexbox
 - JS, DOM manipulation
-
-### Useful resources
-
-- [Box Shadow Generator](https://www.cssmatic.com/box-shadow) - Easiest way to create box-shadows.
 
 ## Author
 
