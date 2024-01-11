@@ -15,9 +15,10 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 ## Overview
 
 ### Screenshot
-
+Desktop version:
 ![Desktop Screenshot](./screenshots/desktop.png)
-![Mobile Screenshot](./screenshots/mobile.png)
+Mobile version:  
+[Mobile Screenshot](./screenshots/mobile.png)
 
 ### Links
 
